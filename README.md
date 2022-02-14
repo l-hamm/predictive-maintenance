@@ -1,6 +1,5 @@
 # **Will my machine break down today?** - Using a binary classifier for predictive maintenance
 
-[Link to notebook]('PdM.ipynb')
 
 In this repository we use data of several machines to predict whether a component of a machine breaks down within the next hours. To do so, we will first evaluate the provided data, then we will try to understand the correlations between features for a single machine. Next we will label our dataset to finally train a binary classifier model and check its performance. All steps are described in [PdM.ipynb](https://github.com/l-hamm/predictive-maintenance/blob/main/PdM.ipynb).
 
